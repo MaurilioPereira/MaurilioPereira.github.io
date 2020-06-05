@@ -28,6 +28,6 @@ Curso técnico/profissionalizante em Técnico em Eletroeletrônica através da F
 
 #### Produção bibliográfica
 
-DE LIMA PEREIRA, Maurilio; DE BRITO SOUSA, Jose Renato. [Monitoring Systems Used In Photovoltaic Microgeneration: A Review.] (https://ieeexplore.ieee.org/abstract/document/8015051) IEEE Latin America Transactions, v. 15, n. 9, p. 1671-1676, 2017.
+DE LIMA PEREIRA, Maurilio; DE BRITO SOUSA, Jose Renato. [Monitoring Systems Used In Photovoltaic Microgeneration: A Review.](https://ieeexplore.ieee.org/abstract/document/8015051) IEEE Latin America Transactions, v. 15, n. 9, p. 1671-1676, 2017.
 
 
