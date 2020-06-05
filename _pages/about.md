@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-image: 08b.jpg
+image: 08bb.jpg
 permalink: /sobre/
 ---
 
