@@ -9,20 +9,16 @@ Olá! Chamo-me Maurilio Pereira. Sou professor, pesquisador, Tecnólogo e estuda
 
 #### Formação acadêmica/titulação
 <small>2016 - 2018</small>
-
 Mestrado em Energias Renováveis através do Instituto Federal de Educação, Ciência e Tecnologia do Ceará, IFCE, Brasil.
 Título: DESENVOLVIMENTO DE UM SISTEMA DE MONITORAMENTO E DETECÇÃO DE FALHAS PARA MICROGERAÇÃO FOTOVOLTAICA.
 
 <small>2020 - ...</small>
-
 Graduação em andamento em Engenharia Elétrica no centro universitário Maurício de Nassau - PETROLINA, UNINASSAU, Brasil. 
 
 <small>2008 - 2013</small>
-
 Graduação em Automação Industrial através do Instituto Federal de Educação, Ciência e Tecnologia do Ceará/Campus Juazeiro do norte, IFCE, Brasil.
 
 <small>2005 - 2007</small>
-
 Curso técnico/profissionalizante em Técnico em Eletroeletrônica através da Faculdade de Tecnologia Centec, FATEC, Brasil.
 
 
